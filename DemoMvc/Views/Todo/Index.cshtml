@@ -1,0 +1,22 @@
+﻿@model List<DemoMvc.Models.TodoItem>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>To-Do List</title>
+</head>
+<body>
+    <h1>My To-Do List</h1>
+    <form asp-action="Add" method="post">
+        <input type="text" name="task" placeholder="Enter a task" required />
+        <button type="submit">Add</button>
+    </form>
+
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item.Task</li>
+        }
+    </ul>
+</body>
+</html>

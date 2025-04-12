@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "DemoMvc\\Program.cs",
               "ToolTip": "C:\\Users\\sanaq\\OneDrive\\Desktop\\Practice\\DemoMvc\\DemoMvc\\Program.cs",
               "RelativeToolTip": "DemoMvc\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T16:13:01.145Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "DemoMvc\\Views\\Todo\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T16:08:06.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T16:08:06.289Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "DemoMvc\\Controllers\\TodoController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T16:06:01.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T16:06:01.052Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "DemoMvc\\Models\\TodoItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T16:05:25.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T16:05:25.779Z"
             }
           ]
         }

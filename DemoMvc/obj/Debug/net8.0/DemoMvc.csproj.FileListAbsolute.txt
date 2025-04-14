@@ -32,3 +32,4 @@ C:\Users\sanaq\OneDrive\Desktop\Practice\DemoMvc\DemoMvc\obj\Debug\net8.0\refint
 C:\Users\sanaq\OneDrive\Desktop\Practice\DemoMvc\DemoMvc\obj\Debug\net8.0\DemoMvc.pdb
 C:\Users\sanaq\OneDrive\Desktop\Practice\DemoMvc\DemoMvc\obj\Debug\net8.0\DemoMvc.genruntimeconfig.cache
 C:\Users\sanaq\OneDrive\Desktop\Practice\DemoMvc\DemoMvc\obj\Debug\net8.0\ref\DemoMvc.dll
+C:\Users\sanaq\OneDrive\Desktop\Practice\DemoMvc\DemoMvc\obj\Debug\net8.0\DemoMvc.sourcelink.json
